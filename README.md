@@ -1,4 +1,4 @@
-# 1-ntpnow
+# ntpnow
 
 Homework #1
 Print time
